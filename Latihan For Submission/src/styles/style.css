@@ -1,0 +1,28 @@
+.d-flex{
+    margin: 20px auto;
+    width: 100%;
+    box-shadow: 0px 5px 8px rgb(215, 215, 255);
+    padding: 16px;
+}
+.img-fluid {
+    max-height: 300px; 
+    width: 100%;
+    object-fit: cover;
+}
+.club-items{
+    margin-top: 20px;
+}
+club-item{
+    margin: auto 20px;
+}
+.card{
+    margin: 20px auto;
+    
+}
+.navbar{
+    margin-bottom: 10px;
+}
+.img{
+    margin-top: 5px;
+}
+
